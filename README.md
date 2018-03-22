@@ -1,0 +1,1 @@
+# tesseract-ocr-for-windows-with-php
